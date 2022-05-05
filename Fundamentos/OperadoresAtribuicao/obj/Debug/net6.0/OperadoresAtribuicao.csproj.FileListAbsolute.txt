@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.exe
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\refint\OperadoresAtribuicao.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadoresAtribuicao\obj\Debug\net6.0\ref\OperadoresAtribuicao.dll

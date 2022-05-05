@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\bin\Debug\net6.0\FormatarNumero.exe
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\bin\Debug\net6.0\FormatarNumero.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\bin\Debug\net6.0\FormatarNumero.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\bin\Debug\net6.0\FormatarNumero.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\bin\Debug\net6.0\FormatarNumero.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\refint\FormatarNumero.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\FormatarNumero.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\FormatarNumero\obj\Debug\net6.0\ref\FormatarNumero.dll

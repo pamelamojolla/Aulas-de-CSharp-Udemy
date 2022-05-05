@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\bin\Debug\net6.0\OperadorTernario.exe
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\bin\Debug\net6.0\OperadorTernario.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\bin\Debug\net6.0\OperadorTernario.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\bin\Debug\net6.0\OperadorTernario.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\bin\Debug\net6.0\OperadorTernario.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\refint\OperadorTernario.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\OperadorTernario.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperadorTernario\obj\Debug\net6.0\ref\OperadorTernario.dll

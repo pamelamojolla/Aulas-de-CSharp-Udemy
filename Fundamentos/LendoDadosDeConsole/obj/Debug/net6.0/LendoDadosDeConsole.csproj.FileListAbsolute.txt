@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\bin\Debug\net6.0\LendoDadosDeConsole.exe
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\bin\Debug\net6.0\LendoDadosDeConsole.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\bin\Debug\net6.0\LendoDadosDeConsole.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\bin\Debug\net6.0\LendoDadosDeConsole.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\bin\Debug\net6.0\LendoDadosDeConsole.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\refint\LendoDadosDeConsole.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\LendoDadosDeConsole.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\LendoDadosDeConsole\obj\Debug\net6.0\ref\LendoDadosDeConsole.dll

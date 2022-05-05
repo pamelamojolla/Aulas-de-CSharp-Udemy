@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\bin\Debug\net6.0\OperdaoresLógicos.exe
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\bin\Debug\net6.0\OperdaoresLógicos.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\bin\Debug\net6.0\OperdaoresLógicos.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\bin\Debug\net6.0\OperdaoresLógicos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\bin\Debug\net6.0\OperdaoresLógicos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\refint\OperdaoresLógicos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\OperdaoresLógicos.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\AulasDeCSharpUdemy\OperdaoresLógicos\obj\Debug\net6.0\ref\OperdaoresLógicos.dll
