@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.exe
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\bin\Debug\net6.0\EstruturaDoWhile.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\refint\EstruturaDoWhile.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\EstruturaDoWhile.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaDoWhile\obj\Debug\net6.0\ref\EstruturaDoWhile.dll

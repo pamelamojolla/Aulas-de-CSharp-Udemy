@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\bin\Debug\net6.0\ExtruturaSwich.exe
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\bin\Debug\net6.0\ExtruturaSwich.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\bin\Debug\net6.0\ExtruturaSwich.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\bin\Debug\net6.0\ExtruturaSwich.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\bin\Debug\net6.0\ExtruturaSwich.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\refint\ExtruturaSwich.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ExtruturaSwich.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\ExtruturaSwich\obj\Debug\net6.0\ref\ExtruturaSwich.dll

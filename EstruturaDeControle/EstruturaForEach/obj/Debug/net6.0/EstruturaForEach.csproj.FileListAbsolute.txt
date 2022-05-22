@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\bin\Debug\net6.0\EstruturaForEach.exe
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\bin\Debug\net6.0\EstruturaForEach.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\bin\Debug\net6.0\EstruturaForEach.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\bin\Debug\net6.0\EstruturaForEach.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\bin\Debug\net6.0\EstruturaForEach.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\refint\EstruturaForEach.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\EstruturaForEach.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\EstruturaForEach\obj\Debug\net6.0\ref\EstruturaForEach.dll

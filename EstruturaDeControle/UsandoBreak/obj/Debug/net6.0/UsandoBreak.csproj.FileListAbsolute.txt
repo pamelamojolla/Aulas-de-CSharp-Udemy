@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\bin\Debug\net6.0\UsandoBreak.exe
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\bin\Debug\net6.0\UsandoBreak.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\bin\Debug\net6.0\UsandoBreak.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\bin\Debug\net6.0\UsandoBreak.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\bin\Debug\net6.0\UsandoBreak.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\refint\UsandoBreak.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\UsandoBreak.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\UsandoBreak\obj\Debug\net6.0\ref\UsandoBreak.dll

@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\bin\Debug\net6.0\Estrutura_IF_Else.exe
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\bin\Debug\net6.0\Estrutura_IF_Else.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\bin\Debug\net6.0\Estrutura_IF_Else.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\bin\Debug\net6.0\Estrutura_IF_Else.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\bin\Debug\net6.0\Estrutura_IF_Else.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\refint\Estrutura_IF_Else.dll
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\Estrutura_IF_Else.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\EstruturaDeControle\Estrutura_IF_Else\obj\Debug\net6.0\ref\Estrutura_IF_Else.dll
