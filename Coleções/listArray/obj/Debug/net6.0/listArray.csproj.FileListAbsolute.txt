@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\bin\Debug\net6.0\listArray.exe
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\bin\Debug\net6.0\listArray.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\bin\Debug\net6.0\listArray.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\bin\Debug\net6.0\listArray.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\bin\Debug\net6.0\listArray.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\refint\listArray.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\listArray.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\listArray\obj\Debug\net6.0\ref\listArray.dll

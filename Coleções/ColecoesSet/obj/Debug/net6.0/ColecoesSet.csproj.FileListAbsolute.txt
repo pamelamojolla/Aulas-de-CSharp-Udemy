@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\bin\Debug\net6.0\ColecoesSet.exe
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\bin\Debug\net6.0\ColecoesSet.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\bin\Debug\net6.0\ColecoesSet.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\bin\Debug\net6.0\ColecoesSet.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\bin\Debug\net6.0\ColecoesSet.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\refint\ColecoesSet.dll
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ColecoesSet.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\Coleções\ColecoesSet\obj\Debug\net6.0\ref\ColecoesSet.dll
