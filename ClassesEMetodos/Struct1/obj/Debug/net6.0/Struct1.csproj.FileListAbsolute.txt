@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\bin\Debug\net6.0\Struct1.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\bin\Debug\net6.0\Struct1.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\bin\Debug\net6.0\Struct1.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\bin\Debug\net6.0\Struct1.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\bin\Debug\net6.0\Struct1.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\refint\Struct1.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\Struct1.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct1\obj\Debug\net6.0\ref\Struct1.dll

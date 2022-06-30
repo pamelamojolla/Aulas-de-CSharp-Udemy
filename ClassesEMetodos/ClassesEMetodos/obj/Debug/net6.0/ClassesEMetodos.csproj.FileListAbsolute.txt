@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\bin\Debug\net6.0\ClassesEMetodos.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\bin\Debug\net6.0\ClassesEMetodos.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\bin\Debug\net6.0\ClassesEMetodos.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\bin\Debug\net6.0\ClassesEMetodos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\bin\Debug\net6.0\ClassesEMetodos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\refint\ClassesEMetodos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ClassesEMetodos.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ClassesEMetodos\obj\Debug\net6.0\ref\ClassesEMetodos.dll

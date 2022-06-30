@@ -1,0 +1,30 @@
+﻿
+
+//recebimento de valor por referência sem mudar class para struct
+using ValorVsReferencias;
+
+int numero = 3;
+int copiaNumero = numero;
+
+Console.WriteLine($"{numero}{copiaNumero}");
+numero++;
+
+Console.WriteLine($"{numero}{copiaNumero}");
+
+
+Dependente dep = new Dependente
+{
+    Nome = "Pamela",
+    Idade = 20
+};
+
+Dependente copiaDep = dep;
+
+Console.WriteLine($"{dep.Nome}{copiaDep.Nome}");
+Console.WriteLine($"{dep.Idade}{copiaDep.Idade}");
+
+copiaDep.Nome = "Mel";
+dep.Idade = 21;
+
+Console.WriteLine($"{dep.Nome}{copiaDep.Nome}");
+Console.WriteLine($"{dep.Idade}{copiaDep.Idade}");

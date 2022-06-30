@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\bin\Debug\net6.0\Props.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\bin\Debug\net6.0\Props.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\bin\Debug\net6.0\Props.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\bin\Debug\net6.0\Props.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\bin\Debug\net6.0\Props.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\refint\Props.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\Props.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Props\obj\Debug\net6.0\ref\Props.dll

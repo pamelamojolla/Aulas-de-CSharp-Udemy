@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\bin\Debug\net6.0\Struct Vs Classes.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\bin\Debug\net6.0\Struct Vs Classes.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\bin\Debug\net6.0\Struct Vs Classes.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\bin\Debug\net6.0\Struct Vs Classes.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\bin\Debug\net6.0\Struct Vs Classes.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\refint\Struct Vs Classes.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\Struct Vs Classes.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Struct Vs Classes\obj\Debug\net6.0\ref\Struct Vs Classes.dll

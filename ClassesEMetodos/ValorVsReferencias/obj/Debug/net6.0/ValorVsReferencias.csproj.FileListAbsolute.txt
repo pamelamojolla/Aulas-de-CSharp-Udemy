@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\bin\Debug\net6.0\ValorVsReferencias.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\bin\Debug\net6.0\ValorVsReferencias.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\bin\Debug\net6.0\ValorVsReferencias.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\bin\Debug\net6.0\ValorVsReferencias.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\bin\Debug\net6.0\ValorVsReferencias.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\refint\ValorVsReferencias.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ValorVsReferencias.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ValorVsReferencias\obj\Debug\net6.0\ref\ValorVsReferencias.dll

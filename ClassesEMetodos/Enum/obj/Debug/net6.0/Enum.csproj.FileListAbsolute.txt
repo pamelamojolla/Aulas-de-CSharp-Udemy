@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\bin\Debug\net6.0\Enum.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\bin\Debug\net6.0\Enum.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\bin\Debug\net6.0\Enum.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\bin\Debug\net6.0\Enum.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\refint\Enum.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Enum\obj\Debug\net6.0\ref\Enum.dll

@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\bin\Debug\net6.0\Readonly.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\bin\Debug\net6.0\Readonly.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\bin\Debug\net6.0\Readonly.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\bin\Debug\net6.0\Readonly.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\bin\Debug\net6.0\Readonly.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\refint\Readonly.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\Readonly.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\Readonly\obj\Debug\net6.0\ref\Readonly.dll

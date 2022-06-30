@@ -1,0 +1,15 @@
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\bin\Debug\net6.0\AtributosEstaticos.exe
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\bin\Debug\net6.0\AtributosEstaticos.deps.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\bin\Debug\net6.0\AtributosEstaticos.runtimeconfig.json
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\bin\Debug\net6.0\AtributosEstaticos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\bin\Debug\net6.0\AtributosEstaticos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.csproj.AssemblyReference.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.AssemblyInfoInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.AssemblyInfo.cs
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\refint\AtributosEstaticos.dll
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.pdb
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\AtributosEstaticos.genruntimeconfig.cache
+C:\Users\pmojolla\Documents\Udemy\C#\ClassesEMetodos\ConsoleApp1\obj\Debug\net6.0\ref\AtributosEstaticos.dll
